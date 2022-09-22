@@ -1,0 +1,8 @@
+E:\C#Stuffs\ZomatoApp\ZomatoApp\bin\Debug\ZomatoApp.exe.config
+E:\C#Stuffs\ZomatoApp\ZomatoApp\bin\Debug\ZomatoApp.exe
+E:\C#Stuffs\ZomatoApp\ZomatoApp\bin\Debug\ZomatoApp.pdb
+E:\C#Stuffs\ZomatoApp\ZomatoApp\obj\Debug\ZomatoApp.csproj.AssemblyReference.cache
+E:\C#Stuffs\ZomatoApp\ZomatoApp\obj\Debug\ZomatoApp.csproj.SuggestedBindingRedirects.cache
+E:\C#Stuffs\ZomatoApp\ZomatoApp\obj\Debug\ZomatoApp.csproj.CoreCompileInputs.cache
+E:\C#Stuffs\ZomatoApp\ZomatoApp\obj\Debug\ZomatoApp.exe
+E:\C#Stuffs\ZomatoApp\ZomatoApp\obj\Debug\ZomatoApp.pdb
